@@ -1,0 +1,76 @@
+{
+  "tag": "AI_1",
+  "hands_per_eval": 10000,
+  "results": [
+    {
+      "hands_trained": 100000,
+      "chips_per_100": 4408.4,
+      "bb_per_100": 220.42,
+      "win_rate": 20.11,
+      "net_chips": 440840.0
+    },
+    {
+      "hands_trained": 200000,
+      "chips_per_100": 10481.35,
+      "bb_per_100": 524.07,
+      "win_rate": 43.73,
+      "net_chips": 1048135.0
+    },
+    {
+      "hands_trained": 300000,
+      "chips_per_100": 7080.0,
+      "bb_per_100": 354.0,
+      "win_rate": 40.16,
+      "net_chips": 708000.0
+    },
+    {
+      "hands_trained": 400000,
+      "chips_per_100": 4709.12,
+      "bb_per_100": 235.46,
+      "win_rate": 21.95,
+      "net_chips": 470912.0
+    },
+    {
+      "hands_trained": 500000,
+      "chips_per_100": 6963.78,
+      "bb_per_100": 348.19,
+      "win_rate": 37.75,
+      "net_chips": 696378.0
+    },
+    {
+      "hands_trained": 600000,
+      "chips_per_100": 8259.9,
+      "bb_per_100": 413.0,
+      "win_rate": 41.93,
+      "net_chips": 825990.0
+    },
+    {
+      "hands_trained": 700000,
+      "chips_per_100": 3629.9,
+      "bb_per_100": 181.5,
+      "win_rate": 41.85,
+      "net_chips": 362990.0
+    },
+    {
+      "hands_trained": 800000,
+      "chips_per_100": 8761.99,
+      "bb_per_100": 438.1,
+      "win_rate": 42.44,
+      "net_chips": 876199.0
+    },
+    {
+      "hands_trained": 900000,
+      "chips_per_100": 3298.3,
+      "bb_per_100": 164.91,
+      "win_rate": 20.18,
+      "net_chips": 329830.0
+    },
+    {
+      "hands_trained": 1000000,
+      "chips_per_100": 9779.1,
+      "bb_per_100": 488.96,
+      "win_rate": 40.24,
+      "net_chips": 977910.0
+    }
+  ]
+}
